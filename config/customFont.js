@@ -1,0 +1,36 @@
+export const SFProFontFamily = {
+  // SF Pro Display
+  SF_PRO_DISPLAY_BLACK: 'SF-Pro-Display-Black',
+  SF_PRO_DISPLAY_BLACK_ITALIC: 'SF-Pro-Display-BlackItalic',
+  SF_PRO_DISPLAY_BOLD: 'SF-Pro-Display-Bold',
+  SF_PRO_DISPLAY_BOLD_ITALIC: 'SF-Pro-Display-BoldItalic',
+  SF_PRO_DISPLAY_HEAVY: 'SF-Pro-Display-Heavy',
+  SF_PRO_DISPLAY_HEAVY_ITALIC: 'SF-Pro-Display-HeavyItalic',
+  SF_PRO_DISPLAY_LIGHT: 'SF-Pro-Display-Light',
+  SF_PRO_DISPLAY_LIGHT_ITALIC: 'SF-Pro-Display-LightItalic',
+  SF_PRO_DISPLAY_MEDIUM: 'SF-Pro-Display-Medium',
+  SF_PRO_DISPLAY_MEDIUM_ITALIC: 'SF-Pro-Display-MediumItalic',
+  SF_PRO_DISPLAY_REGULAR: 'SF-Pro-Display-Regular',
+  SF_PRO_DISPLAY_REGULAR_ITALIC: 'SF-Pro-Display-RegularItalic',
+  SF_PRO_DISPLAY_SEMIBOLD: 'SF-Pro-Display-Semibold',
+  SF_PRO_DISPLAY_SEMIBOLD_ITALIC: 'SF-Pro-Display-SemiboldItalic',
+  SF_PRO_DISPLAY_THIN: 'SF-Pro-Display-Thin',
+  SF_PRO_DISPLAY_THIN_ITALIC: 'SF-Pro-Display-ThinItalic',
+  SF_PRO_DISPLAY_ULTRALIGHT: 'SF-Pro-Display-Ultralight',
+  SF_PRO_DISPLAY_ULTRALIGHT_ITALIC: 'SF-Pro-Display-UltralightItalic',
+
+  // SF Pro Text
+  SF_PRO_TEXT_BOLD: 'SF-Pro-Text-Bold',
+  SF_PRO_TEXT_BOLD_ITALIC: 'SF-Pro-Text-BoldItalic',
+  SF_PRO_TEXT_HEAVY: 'SF-Pro-Text-Heavy',
+  SF_PRO_TEXT_HEAVY_ITALIC: 'SF-Pro-Text-HeavyItalic',
+  SF_PRO_TEXT_LIGHT: 'SF-Pro-Text-Light',
+  SF_PRO_TEXT_LIGHT_ITALIC: 'SF-Pro-Text-LightItalic',
+  SF_PRO_TEXT_MEDIUM: 'SF-Pro-Text-Medium',
+  SF_PRO_TEXT_MEDIUM_ITALIC: 'SF-Pro-Text-MediumItalic',
+  SF_PRO_TEXT_REGULAR: 'SF-Pro-Text-Regular',
+  SF_PRO_TEXT_REGULAR_ITALIC: 'SF-Pro-Text-RegularItalic',
+  SF_PRO_TEXT_SEMIBOLD: 'SF-Pro-Text-Semibold',
+  SF_PRO_TEXT_SEMIBOLD_ITALIC: 'SF-Pro-Text-SemiboldItalic',
+  };
+  

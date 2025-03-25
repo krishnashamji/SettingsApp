@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "first-react-native-app",
-    "slug": "first-react-native-app",
+    "name": "settings-app",
+    "slug": "settings-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
