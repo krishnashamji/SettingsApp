@@ -3,6 +3,7 @@ import { useFonts } from 'expo-font';
 import { SFProFontFamily } from "../config/customFont";
 import { Text } from "react-native";
 
+
 export default function RootLayout() {
   const [fontsLoaded] = useFonts({
     // SF Pro Display
@@ -45,5 +46,7 @@ export default function RootLayout() {
     return <Text>Loading Fonts...</Text>;
   }
 
-  return <Stack />;
+  return (
+      <Stack />
+  );
 };
