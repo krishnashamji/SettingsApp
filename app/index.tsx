@@ -41,7 +41,7 @@ const LISTONEDATA = [
   }
 ];
 
-export default function Index() {
+export default function Home() {
   const router = useRouter();
 
   return (
