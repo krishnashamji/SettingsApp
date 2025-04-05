@@ -1,5 +1,4 @@
-import { Text, StyleSheet, View, Image, ScrollView, TouchableOpacity } from 'react-native';
-import { SFProFontFamily } from '../config/customFont'
+import { Text, View, Image, ScrollView, TouchableOpacity } from 'react-native';
 import { FlashList } from "@shopify/flash-list";
 import { useRouter } from 'expo-router';
 import { LISTONEDATA } from "@/constants/constants"

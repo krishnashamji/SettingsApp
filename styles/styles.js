@@ -1,4 +1,7 @@
 
+import { StyleSheet } from 'react-native';
+import { SFProFontFamily } from "../config/customFont"
+
 export const styles = StyleSheet.create({
 
     // Containers
