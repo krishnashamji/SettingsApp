@@ -17,7 +17,7 @@ export default function Home() {
           renderItem={({ item }) => (
             <TouchableOpacity
               style={styles.listItemContainer}
-              onPress={() => router.push(item.page as any)}
+              onPress={() => router.push(item.href as any)}
             >
               <Image source={item.icon} style={styles.itemIcon} />
               <Text style={[styles.itemText, styles.h6]}>{item.title}</Text>
